@@ -1,4 +1,4 @@
-# 🎯 People Tracking & Counting API
+# 🎯 People Tracking & Counting System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)

@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red.svg)](https://github.com/ultralytics/ultralytics)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A powerful FastAPI microservice for real-time people tracking and counting using **YOLOv8** object detection and **DeepSort** tracking algorithm. Supports both video file processing and live camera feeds with accurate people counting and unique ID assignment.
 
@@ -425,10 +424,6 @@ Output Video
 - 📧 Email: [adeelmemon096@yahoo.com](mailto:adeelmemon096@yahoo.com)
 - 💼 LinkedIn: [linkedin.com/in/adeeliqbalmemon](https://www.linkedin.com/in/adeeliqbalmemon)
 - 🐙 GitHub: [github.com/adeel-iqbal](https://github.com/adeel-iqbal)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

@@ -102,15 +102,16 @@ curl -X POST "http://localhost:8000/api/track/video" \
 
 ```
 people-tracking-counter/
-├── app.py                 # FastAPI application & endpoints
-├── tracker.py             # Core tracking logic (YOLO + DeepSort)
-├── models.py              # Pydantic models for request/response
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-├── uploads/              # Temporary uploaded videos (auto-created)
-├── outputs/              # Processed output videos (auto-created)
-├── demo.gif              # Demo visualization
-└── .gitignore           # Git ignore file
+├── app.py                   # FastAPI application & endpoints
+├── tracker.py               # Core tracking logic (YOLO + DeepSort)
+├── models.py                # Pydantic models for request/response
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation
+├── uploads/                 # Temporary uploaded videos (auto-created)
+├── outputs/                 # Processed output videos (auto-created)
+├── demo.gif                 # Demo visualization
+├── yolo_deepsort_counting.ipynb   # Notebook
+└── yolov8n.pt               # Trained model
 ```
 
 ## 🔌 API Endpoints
